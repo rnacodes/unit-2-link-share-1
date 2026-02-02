@@ -1,0 +1,14 @@
+D:\Repos\logic-puzzle\bin\Debug\net6.0\logic-puzzle.exe
+d:\Repos\logic-puzzle\bin\Debug\net6.0\logic-puzzle.deps.json
+d:\Repos\logic-puzzle\bin\Debug\net6.0\logic-puzzle.runtimeconfig.json
+D:\Repos\logic-puzzle\bin\Debug\net6.0\logic-puzzle.dll
+D:\Repos\logic-puzzle\bin\Debug\net6.0\logic-puzzle.pdb
+D:\Repos\logic-puzzle\obj\Debug\net6.0\logic-puzzle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\logic-puzzle\obj\Debug\net6.0\logic-puzzle.AssemblyInfoInputs.cache
+D:\Repos\logic-puzzle\obj\Debug\net6.0\logic-puzzle.AssemblyInfo.cs
+D:\Repos\logic-puzzle\obj\Debug\net6.0\logic-puzzle.csproj.CoreCompileInputs.cache
+D:\Repos\logic-puzzle\obj\Debug\net6.0\logic-puzzle.dll
+D:\Repos\logic-puzzle\obj\Debug\net6.0\refint\logic-puzzle.dll
+D:\Repos\logic-puzzle\obj\Debug\net6.0\logic-puzzle.pdb
+d:\Repos\logic-puzzle\obj\Debug\net6.0\logic-puzzle.genruntimeconfig.cache
+d:\Repos\logic-puzzle\obj\Debug\net6.0\ref\logic-puzzle.dll
